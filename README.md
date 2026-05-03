@@ -3,7 +3,7 @@
 This repository contains access to the project dataset stored in Google Sheets.
 
 ## 📊 Google Sheets Link
-👉 [Open Google Sheet](https://docs.google.com/spreadsheets/d/1uH-cAci5luXTNfgbqwUzpQiHVcfJuVL6fg7HGuxJuRU/edit?usp=sharing)
+👉 [Open Google Sheet](https://drive.google.com/drive/folders/1FeJ_6qwQ40e1dz1Oz--uZPVRZY3816JR?usp=sharing)
 
 ## 📁 Sheets Included
 - **Sauce Demo**
