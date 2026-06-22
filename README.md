@@ -36,6 +36,9 @@ This repository contains access to the project dataset stored in Google Sheets.
 - **Bug reports**
   - Documented bugs with details and status
 
+- **Database Testing test cases**
+  - Documented custom made database testing test cases
+
 ## 🔐 Access
 If you cannot access the sheet, request permission.
 
